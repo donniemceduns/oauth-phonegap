@@ -24,5 +24,7 @@
     <engines>
       <engine name="cordova" version=">=3.0.0" />
     </engines>
+    
+    <dependency id="org.apache.cordova.inappbrowser" url="org.apache.cordova.inappbrowser@0.3.0" />
 
 </plugin>
